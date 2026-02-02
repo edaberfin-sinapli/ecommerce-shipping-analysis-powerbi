@@ -82,12 +82,12 @@ ecommerce-shipping-analysis-powerbi/
 ├── data/
 │ └── Ecommerce Shipping Data.csv
 │
-├── sql/
-│ └── ecommerce_shipping_analysis.sql
-│
 ├── powerbi/
 │ ├── shipping_performance_overview.png
 │ └── shipping_breakdown_late_delivery_drivers.png
+│
+├── sql/
+│ └── ecommerce_shipping_analysis.sql
 │
 └── README.md
 </pre> 
