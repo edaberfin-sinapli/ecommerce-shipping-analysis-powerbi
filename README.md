@@ -74,9 +74,23 @@ This dashboard focuses on identifying factors associated with late deliveries.
 
 ---
 
-## Repository Structure
-- `data/` – raw e-commerce shipping dataset  
-- `powerbi/` – Power BI dashboard screenshots  
+## Project Structure
+
+<pre>
+ecommerce-shipping-analysis-powerbi/
+│
+├── data/
+│ └── Ecommerce Shipping Data.csv
+│
+├── sql/
+│ └── ecommerce_shipping_analysis.sql
+│
+├── powerbi/
+│ ├── shipping_performance_overview.png
+│ └── shipping_breakdown_late_delivery_drivers.png
+│
+└── README.md
+</pre> 
 
 ---
 
